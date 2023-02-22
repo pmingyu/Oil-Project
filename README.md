@@ -1,4 +1,4 @@
-# [데이콘 건설기계 오일 상태 분류 AI 경진대회](https://dacon.io/competitions/official/236013/overview/description)
+# [건설기계 오일 상태 분류 AI 경진대회](https://dacon.io/competitions/official/236013/overview/description)
 
 ## 배경
 - 건설기계 분야의 데이터를 분석, 활용하는 방안을 제시하는 경진대회를 개최하여 참신한 아이디어를 발굴하고 해당 분야의 인공지능 기술의 발전을 도모하려 합니다. 또한 건설 장비 산업의 지능화에 대한 연구활동 홍보 및 우수 인재를 발굴하고자 합니다.
@@ -20,3 +20,4 @@
 
 ## 결과
 - 최종 62등
+![image](https://user-images.githubusercontent.com/93179525/220552362-6f622e89-91c2-4afb-b1c1-15c65ae0f005.png)
